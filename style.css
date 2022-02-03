@@ -336,7 +336,7 @@
 	color: #727272;
 }
 
-/* header area adinationals */
+/* header area additionals */
 .logo {
 	float: left;
 	width: 25%;
@@ -5697,11 +5697,11 @@ margin-bottom:15px;
 	height:300px;
 	padding:0;
 	margin:0px;
-	background:url(../images/header-project-main.jpg) 0px 0px no-repeat;
+	background:url(https://www.ccpl.org/sites/default/files/projectmain/) 0px 0px no-repeat;
 }
 
 .header_medium.two{
-	background:url(../images/header-project-main.jpg) center top no-repeat;
+	background:url(https://www.ccpl.org/sites/default/files/projectmain/) center top no-repeat;
 }
 
 .header_medium .bigtext {

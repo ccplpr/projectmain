@@ -125,14 +125,14 @@ left:1079px; background:url(pre-arrow-style2-hover.png) 0 0 no-repeat;
 .flex-direction-nav.three a  { text-decoration:none; display: block; width: 40px; height: 40px; position: absolute; top: -62px; z-index: 10; overflow: hidden; opacity: 1; cursor: pointer; color:#fff;}
 
 .flex-direction-nav.three .flex-prev.three { 
-left:1080px; background:url(pre-arrow-style3.png) 0 0 no-repeat;
+left:1080px; background:url(https://www.ccpl.org/sites/default/files/projectmain/pre-arrow-style3.png) 0 0 no-repeat;
 }
 .flex-direction-nav.three .flex-prev:hover.three { 
-left:1080px; background:url(pre-arrow-style3-hover.png) 0 0 no-repeat;
+left:1080px; background:url(https://www.ccpl.org/sites/default/files/projectmain/pre-arrow-style3-hover.png) 0 0 no-repeat;
 }
 
-.flex-direction-nav.three .flex-next.three { right:0px; text-align: right; background:url(next-arrow-style3.png) 0 0 no-repeat; }
-.flex-direction-nav.three .flex-next:hover.three { right:0px; text-align: right; background:url(next-arrow-style3-hover.png) 0 0 no-repeat; }
+.flex-direction-nav.three .flex-next.three { right:0px; text-align: right; background:url(https://www.ccpl.org/sites/default/files/projectmain/next-arrow-style3.png) 0 0 no-repeat; }
+.flex-direction-nav.three .flex-next:hover.three { right:0px; text-align: right; background:url(https://www.ccpl.org/sites/default/files/projectmain/next-arrow-style3-hover.png) 0 0 no-repeat; }
 
 
 /* Direction Nav style 4 */

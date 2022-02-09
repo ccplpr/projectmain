@@ -7258,7 +7258,7 @@ margin-bottom:15px;
 	float:left;
 	padding:75px 0 75px 0;
 	margin:0px;
-	background: url("../images/parallax_bg8.jpg");
+	background: url("https://www.ccpl.org/sites/default/files/projectmain/parallax_bg8.jpg");
 	background-attachment: fixed;
 	background-origin: initial;
 	background-clip: initial;
@@ -7309,7 +7309,7 @@ margin-bottom:15px;
 
 /*box hover */
 .section_holder57 .box:hover{
-	background-color:#161616;
+	background-color:#006a8e;
 	transition-property: background-color, color;
 	transition-duration: 0.3s;
 	transition-timing-function: ease-out;
@@ -7325,7 +7325,7 @@ margin-bottom:15px;
 /*box active */
 
 .section_holder57 .box.active{
-	background-color:#161616;
+	background-color:#006a8e;
 	transition-property: background-color, color;
 	transition-duration: 0.3s;
 	transition-timing-function: ease-out;

@@ -6,7 +6,7 @@
  * Free to use under the GPLv2 license.
  * http://www.gnu.org/licenses/gpl-2.0.html
  *
- * Contributing author: Tyler Smith (@mbmufffin)
+ * Contributing author: Tyler Smith (@mbmufffin)thirteen
  */
 
 
@@ -308,14 +308,14 @@ left:50px; background:url(pre-arrow-style2-hover.png) 0 0 no-repeat;
 .flex-direction-nav.thirteen a  { text-decoration:none; display: block; width: 40px; height: 40px; position: absolute; top: 180px; z-index: 10; overflow: hidden; opacity: 1; cursor: pointer; color:#fff;}
 
 .flex-direction-nav.thirteen .flex-prev.thirteen { 
-left:-95px; background:url(pre-arrow-style3.png) 0 0 no-repeat;
+left:-75px; background:url(https://www.ccpl.org/sites/default/files/projectmain/pre-arrow-style3.png) 0 0 no-repeat;
 }
 .flex-direction-nav.thirteen .flex-prev:hover.thirteen { 
-left:-95px; background:url(pre-arrow-style3-hover.png) 0 0 no-repeat;
+left:-75px; background:url(https://www.ccpl.org/sites/default/files/projectmain/pre-arrow-style3-hover.png) 0 0 no-repeat;
 }
 
-.flex-direction-nav.thirteen .flex-next.thirteen { right:-95px; text-align: right; background:url(next-arrow-style3.png) 0 0 no-repeat; }
-.flex-direction-nav.thirteen .flex-next:hover.thirteen { right:-95px; text-align: right; background:url(next-arrow-style3-hover.png) 0 0 no-repeat; }
+.flex-direction-nav.thirteen .flex-next.thirteen { right:-75px; text-align: right; background:url(https://www.ccpl.org/sites/default/files/projectmain/next-arrow-style3.png) 0 0 no-repeat; }
+.flex-direction-nav.thirteen .flex-next:hover.thirteen { right:-75px; text-align: right; background:url(https://www.ccpl.org/sites/default/files/projectmain/next-arrow-style3-hover.png) 0 0 no-repeat; }
 
 
 

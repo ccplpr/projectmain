@@ -532,6 +532,7 @@ ul.nav > li > a.active {
 .tp-caption.text11 {
 	color:#006699;
 }
+.section_holder21 a, a:visited { color: 9eb356 !important; }
 
 .section_holder22 .one_third:hover .icon {
     border: 1px solid #006699;

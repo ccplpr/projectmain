@@ -552,7 +552,7 @@ ul.nav > li > a.active {
     background-image: url(../../images/colors/cyan/parallax_bg7.jpg);
 }
 .section_holder24 {
-    background-image: url(https://www.ccpl.org/sites/default/files/projectmain/parallax_bg8.jpg);
+    background-image: url(../parallax_bg8.jpg);
 }
 .section_holder24 .circles li .circle_outer.active .circle_inner {
     color: #006699;
